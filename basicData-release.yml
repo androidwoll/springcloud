@@ -5,7 +5,7 @@ eureka:
 spring:
   datasource:
     name: test
-    url: jdbc:mysql://218.18.161.41:6000/poms1.0?useUnicode=true&characterEncoding=utf-8
+    url: jdbc:mysql://218.18.161.41:6000/srer?useUnicode=true&characterEncoding=utf-8
     username: root
     password: Root1234
     # 使用druid数据源
